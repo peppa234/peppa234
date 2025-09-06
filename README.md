@@ -3,7 +3,7 @@
 
 ---
 
-- 🌱 Currently exploring **Deep Learning, MLOps, and Scalable Web Apps**  
+- 🌱 Currently exploring **Deep Learning, AI, and Scalable Web Apps**  
 - 🔭 Interested in **AI for real-world applications (CV, NLP, Data-Driven Systems)**  
 - 🌍 Check out my **[Portfolio](https://aicha-brihmouche-portfolio.vercel.app/)**  
 - 📫 Reach me via **[LinkedIn](https://linkedin.com/in/aichabrihmouche)** or **aichabrihmouche@gmail.com**  
