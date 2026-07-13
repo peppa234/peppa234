@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="30" viewBox="0 0 1200 30" role="presentation">
+  <style>
+    .d { animation: pulse 3s ease-in-out infinite; transform-origin: center; }
+    .d2 { animation-delay: 1s; }
+    .d3 { animation-delay: 2s; }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.35; } }
+  </style>
+  <line x1="30" y1="15" x2="1170" y2="15" stroke="#8fb8ff" stroke-opacity="0.22" stroke-width="1" stroke-dasharray="2 6"/>
+  <g fill="#8fb8ff">
+    <rect class="d" x="296" y="11" width="8" height="8" transform="rotate(45 300 15)"/>
+    <rect class="d d2" x="596" y="11" width="8" height="8" transform="rotate(45 600 15)"/>
+    <rect class="d d3" x="896" y="11" width="8" height="8" transform="rotate(45 900 15)"/>
+  </g>
+  <g fill="#ffb27a">
+    <circle cx="30" cy="15" r="3"/>
+    <circle cx="1170" cy="15" r="3"/>
+  </g>
+</svg>
