@@ -31,12 +31,6 @@ Fourth-year **AI & Data Science engineering student** at **ENSIA** (National Hig
 ![](https://img.shields.io/badge/LOC:_ALGIERS,_ALGERIA-030309?style=for-the-badge&labelColor=030309&color=1c2547)
 ![](https://img.shields.io/badge/4TH_YEAR_—_ENSIA-030309?style=for-the-badge&labelColor=030309&color=1c2547)
 
-**Currently on mission at:**
-
-`▸` **CSA Advisory** — AI & Software Engineering (C# platforms, Python optimization engines)<br/>
-`▸` **Ministry of Higher Education** — national orientation platform (rag.mesrs.dz)<br/>
-`▸` **SONEX** — UI/UX for a bike-delivery startup
-
 **Hackathon record:** 🥇 Data Bounty (CTF) · 🥈 Hack&Train (CV) · 🏆 2nd overall / 1st AI — MOBAI
 
 <br/>
