@@ -92,7 +92,6 @@ Fourth-year **AI & Data Science engineering student** at **ENSIA** (National Hig
 
 | | Mission | Telemetry | Stack |
 |---|---|---|---|
-| 🛰️ | **Smart Beta Platform** — stock screener & portfolio optimization | `CSA ADVISORY // FINTECH` | `C#/.NET` `FastAPI` `SCIP` |
 | 🌍 | **rag.mesrs.dz** — national baccalaureate orientation guide | `MINISTRY // IN PRODUCTION` | `Laravel` `PostgreSQL` |
 | 🪐 | **SIKDS** — secure institutional document distribution + RAG search | `MINISTRY // SECURITY + RAG` | `Laravel` `pgvector` `Redis` |
 | 🏆 | **MOBAI forecasting model** — led the anchoring model | `★ 2ND OVERALL · 1ST AI TRACK` | `Python` `Time Series` |
